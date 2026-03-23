@@ -1,0 +1,156 @@
+{
+  "ONBOARDING": {
+    "server_id": 1294819419020857376,
+    "channel": 1420481212929282089,
+    "process": 1,
+    "onboard_channel": 1294819419867975716
+  },
+
+  "ISMAIL": {
+    "server_id": 1477040230530941100,
+    "channel": 1477040231340441826,
+    "process": 2,
+    "onboard_channel": 1477040231340441821
+  },
+  "AUN": {
+    "server_id": 1302198995782860820,
+    "channel": 1420495947544395896,
+    "process": 2,
+    "onboard_channel": 1302198997716303914
+  },
+  "AUN 2": {
+    "server_id": 1435000857946226720,
+    "channel": 1435000858789285942,
+    "process": 2,
+    "onboard_channel": 1435000858336039160
+  },
+  "SHALIN": {
+    "server_id": 1293998330262847498,
+    "channel": 1420496580166942883,
+    "process": 2,
+    "onboard_channel": 1293998330715836509
+  },
+  "TRISTON": {
+    "server_id": 1445163705623904288,
+    "channel": 1448034801519956189,
+    "process": 2,
+    "onboard_channel": 1445163705984745576
+  },
+  "TYLER": {
+    "server_id": 1433840840937312278,
+    "channel": 1433840845148393666,
+    "process": 2,
+    "onboard_channel": 1433840844665913458
+  },
+  "MARCO": {
+    "server_id": 1433840262051922002,
+    "channel": 1433840262924468256,
+    "process": 2,
+    "onboard_channel": 1433840262479745131
+  },
+  "YARO": {
+    "server_id": 1470781417414987909,
+    "channel": 1470781417977020668,
+    "process": 2,
+    "onboard_channel": 1470781417502802108
+  },
+  "YOUSUF": {
+    "server_id": 1375481487876690022,
+    "channel": 1420503189710700605,
+    "process": 2,
+    "onboard_channel": 1375481489466196030
+  },
+  "ZUHAIR": {
+    "server_id": 1356319056436662444,
+    "channel": 1420503282589110404,
+    "process": 2,
+    "onboard_channel": 1356319057078521910
+  },
+  "ZUHAIR 1": {
+    "server_id": 1294831209628831754,
+    "channel": 1423355406046203995,
+    "process": 2,
+    "onboard_channel": 1294831210463494150
+  },
+  "ANDREW": {
+    "server_id": 1369303104041779241,
+    "channel": 1420503499615109182,
+    "process": 2,
+    "onboard_channel": 1369303104050434155
+  },
+  "ANDREW 1": {
+    "server_id": 1352114707024052265,
+    "channel": 1423348256150257825,
+    "process": 2,
+    "onboard_channel": 1352114707376377881
+  },
+  "ANDREW 2": {
+    "server_id": 1464368333649477851,
+    "channel": 1464369061772263435,
+    "process": 2,
+    "onboard_channel": 1464368334051999944
+  },
+  "RAY": {
+    "server_id": 1424799677441769535,
+    "channel": 1424799678309859478,
+    "process": 2,
+    "onboard_channel": 1424799677865267253
+  },
+
+  "CONTENTX": {
+    "server_id": 1407452994710278275,
+    "channel": 1420509489882464286,
+    "process": 3,
+    "onboard_channel": 1407452995456602123
+  },
+
+  "MO": {
+    "server_id": 1427306676381417626,
+    "channel": 1427306676800979110,
+    "process": 4,
+    "onboard_channel": 1427306676800979105
+  },
+  "MO 1": {
+    "server_id": 1291619773838262305,
+    "channel": 1420500082180100287,
+    "process": 4,
+    "onboard_channel": 1306705682350739496
+  },
+  "MO 2": {
+    "server_id": 1295709631456346164,
+    "channel": 1420503816960213032,
+    "process": 4,
+    "onboard_channel": 1295709632051806249
+  },
+  "MO 3": {
+    "server_id": 1296045134542143508,
+    "channel": 1420502789431492639,
+    "process": 4,
+    "onboard_channel": 1296045134684749885
+  },
+  "MO 4": {
+    "server_id": 1294831216368812103,
+    "channel": 1420503088799944816,
+    "process": 4,
+    "onboard_channel": 1294831216549433469
+  },
+  "VIP": {
+    "server_id": 1422607267362111685,
+    "channel": 1422616536430153728,
+    "process": 4,
+    "onboard_channel": 1422607268561813535
+  },
+
+  "MANUX": {
+    "server_id": 1332043752449118268,
+    "channel": 1482016700323856545,
+    "process": 5,
+    "onboard_channel": 1332043752981663789
+  },
+  "TESTS": {
+    "server_id": 123,
+    "channel": 123,
+    "process": 5,
+    "onboard_channel": 123
+  }
+}
