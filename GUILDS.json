@@ -146,11 +146,5 @@
     "channel": 1482016700323856545,
     "process": 5,
     "onboard_channel": 1332043752981663789
-  },
-  "TESTS": {
-    "server_id": 123,
-    "channel": 123,
-    "process": 5,
-    "onboard_channel": 123
   }
 }
