@@ -6,6 +6,12 @@
     "onboard_channel": 1294819419867975716
   },
 
+  "IMPERIA": {
+    "server_id": 1487113786535186655,
+    "channel": 1487113795498152024,
+    "process": 2,
+    "onboard_channel": 1487113795498152018
+  },
   "ISMAIL": {
     "server_id": 1477040230530941100,
     "channel": 1477040231340441826,
