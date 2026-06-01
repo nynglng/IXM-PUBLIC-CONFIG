@@ -18,30 +18,6 @@
     "process": 2,
     "onboard_channel": 1487113795498152018
   },
-  "ISMAIL": {
-    "server_id": 1477040230530941100,
-    "channel": 1477040231340441826,
-    "process": 2,
-    "onboard_channel": 1477040231340441821
-  },
-  "AUN": {
-    "server_id": 1302198995782860820,
-    "channel": 1420495947544395896,
-    "process": 2,
-    "onboard_channel": 1302198997716303914
-  },
-  "AUN 2": {
-    "server_id": 1435000857946226720,
-    "channel": 1435000858789285942,
-    "process": 2,
-    "onboard_channel": 1435000858336039160
-  },
-  "SHALIN": {
-    "server_id": 1293998330262847498,
-    "channel": 1420496580166942883,
-    "process": 2,
-    "onboard_channel": 1293998330715836509
-  },
   "TRISTON": {
     "server_id": 1445163705623904288,
     "channel": 1448034801519956189,
@@ -72,18 +48,6 @@
     "process": 2,
     "onboard_channel": 1375481489466196030
   },
-  "ZUHAIR": {
-    "server_id": 1356319056436662444,
-    "channel": 1420503282589110404,
-    "process": 2,
-    "onboard_channel": 1356319057078521910
-  },
-  "ZUHAIR 1": {
-    "server_id": 1294831209628831754,
-    "channel": 1423355406046203995,
-    "process": 2,
-    "onboard_channel": 1294831210463494150
-  },
   "ANDREW": {
     "server_id": 1369303104041779241,
     "channel": 1420503499615109182,
@@ -102,12 +66,6 @@
     "process": 2,
     "onboard_channel": 1464368334051999944
   },
-  "RAY": {
-    "server_id": 1424799677441769535,
-    "channel": 1424799678309859478,
-    "process": 2,
-    "onboard_channel": 1424799677865267253
-  },
 
   "CONTENTX": {
     "server_id": 1407452994710278275,
@@ -116,31 +74,31 @@
     "onboard_channel": 1407452995456602123
   },
 
-  "MO": {
+  "IBRAHEEM": {
     "server_id": 1427306676381417626,
     "channel": 1427306676800979110,
     "process": 4,
     "onboard_channel": 1427306676800979105
   },
-  "MO 1": {
+  "IBRAHEEM 1": {
     "server_id": 1291619773838262305,
     "channel": 1420500082180100287,
     "process": 4,
     "onboard_channel": 1306705682350739496
   },
-  "MO 2": {
+  "IBRAHEEM 2": {
     "server_id": 1295709631456346164,
     "channel": 1420503816960213032,
     "process": 4,
     "onboard_channel": 1295709632051806249
   },
-  "MO 3": {
+  "IBRAHEEM 3": {
     "server_id": 1296045134542143508,
     "channel": 1420502789431492639,
     "process": 4,
     "onboard_channel": 1296045134684749885
   },
-  "MO 4": {
+  "IBRAHEEM 4": {
     "server_id": 1294831216368812103,
     "channel": 1420503088799944816,
     "process": 4,
