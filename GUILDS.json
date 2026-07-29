@@ -36,6 +36,12 @@
     "process": 2,
     "onboard_channel": 1433840262479745131
   },
+  "MAPS": {
+    "server_id": 1532062463095210095,
+    "channel": 1532062463749787780,
+    "process": 2,
+    "onboard_channel": 1532062463749787779
+  },
   "YARO": {
     "server_id": 1470781417414987909,
     "channel": 1470781417977020668,
